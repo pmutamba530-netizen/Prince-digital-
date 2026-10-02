@@ -1,0 +1,9 @@
+Configuration Prince Digital
+Project URL:
+https://emsyqmbiujyzmvurbkyy.supabase.co
+
+Publishable key:
+sb_publishable_8pvbwDJtxaA5XKYY9Oz46w__02uRenS
+
+Copie ces valeurs dans .env.local / Netlify Environment Variables.
+Ne mets jamais une service_role ou secret key dans le frontend.
