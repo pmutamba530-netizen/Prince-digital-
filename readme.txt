@@ -1,0 +1,1 @@
+Prince AI Service - importer ce ZIP dans Netlify. Ajouter OPENAI_API_KEY dans les variables d'environnement puis redéployer. Ne jamais mettre la clé dans les fichiers publics.
